@@ -10,7 +10,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 1 - Clone o repositório [ORIGINAL](https://github.com/digitalinnovationone/desafio02-ts)
 
-2 - Instale as dependeências
+2 - Instale as dependências
     
     npm install
 
